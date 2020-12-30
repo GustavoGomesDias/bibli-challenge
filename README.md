@@ -21,6 +21,8 @@
 * [Techs](#techs)
 * [Como começar](#como-começar)
 * [Compartilhe](#compartilhe)
+* [Técnologias usadas](#técnologias-usadas)
+* [Como testar](#como-testar)
 
 # Devchallenge
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
