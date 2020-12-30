@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 
 const app = express();
 
-mongoose.connect('mongodb+srv://gustavo123:gustavo123@cluster0.5fxqu.mongodb.net/gustavo123?retryWrites=true&w=majority', {
+mongoose.connect('Link do seu cluster no MongoDB', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
