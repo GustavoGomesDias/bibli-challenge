@@ -25,8 +25,6 @@
 # Devchallenge
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
 
-#Tava concluído até o git comer meu código, mas eu faço denovo!
-
 # Desafio
 Seu desafio é criar o backend para um sistema de gerenciamento de uma biblioteca!
 
@@ -54,6 +52,18 @@ Faça um print, gif ou vídeo e compartilhe o resultado com a #devchallenge ou m
 
 Desafio criado por  <a href="https://www.linkedin.com/in/lorenagmontes/">Lorena</a> :)
 
+
+# Técnologias usadas
+* Linguageum - JavaScript (NodeJS)
+    1. Nodemon
+    2. Express
+    3. MongoDB
+    4. Mongoose
+    
+# Como testar
+1. Clone o repositório usando o comando `git clone https://github.com/GustavoGomesDias/bibli-challenge.git`;
+2. rode o comando `nodemon src/app.js`;
+3. Aqui, para interagir com os métodos HTTP eu usei o [Insomnia](https://insomnia.rest/).
 
 # Comunidade DevChallenge
 Site: https://www.devchallenge.com.br/ <br>
